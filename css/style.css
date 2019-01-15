@@ -167,6 +167,11 @@ header {
   font: 5em "Trebuchet MS",Arial, sans-serif ;
 }
 
+#navbar nav a selected {
+  background: #333;
+  
+}
+
 /*////////// LOGO //////////*/
 
 
